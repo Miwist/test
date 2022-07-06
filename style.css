@@ -7,7 +7,7 @@
 body {
   font-family: "Poppins", "Circular Std", "Quick Kiss Personal Use";
   background: url(./img/BG.png) no-repeat top center;
-  background-size: 100% cover;
+  background-size: 100%;
   background-color: #ffffff;
   overflow-x: hidden;
 }
